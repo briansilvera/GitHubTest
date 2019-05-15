@@ -6,8 +6,10 @@
 package ca.sheridancollege.week1.softwarefundamentals;
 
 /*
-Line added before first commit.
+*Line added before first commit.
+*Line #2 
 */
+
 /**
  *
  * @author Ali Hassan
