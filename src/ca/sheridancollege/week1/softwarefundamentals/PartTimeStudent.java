@@ -6,7 +6,8 @@
 package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
- *
+ *This is a change
+ * 
  * @author briansilvera
  */
 public class PartTimeStudent extends Student {
